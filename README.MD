@@ -44,10 +44,12 @@ Perplexity AI：
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+ChatGPT：
 
+|   Ação   | prompt |
+| :------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | conteúdo | Crie um eBook em PDF com 6 páginas sobre Flutter. O material deve ter uma introdução que apresente a importância do Flutter para iniciantes e quatro capítulos escritos em texto corrido e contínuo. O conteúdo precisa ser útil e prático, explicando a configuração do ambiente, a estrutura de um projeto Flutter, o conceito de widgets (Stateless e Stateful) e a construção da primeira interface com o exemplo do Counter App. O texto deve fluir de maneira natural, como em um livro, com explicações detalhadas, exemplos descritos em parágrafos e linguagem clara e acessível. |
+
 
 
 Google Studio：
